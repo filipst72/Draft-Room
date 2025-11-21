@@ -1,0 +1,359 @@
+[ERROR][2024-11-09][13:22:23.132045200] Nista nije selektovano
+[ERROR][2024-11-09][13:22:24.825733700] Nista nije selektovano
+[ERROR][2024-11-09][13:22:27.640235700] Nista nije selektovano
+[ERROR][2024-11-09][13:42:48.641768900] Nista nije selektovano
+[ERROR][2024-11-09][14:02:40.552586400] Nista nije selektovano
+[ERROR][2024-11-09][14:32:10.102224200] Room ne moze imati decu
+[ERROR][2024-11-09][15:46:18.655238100] Project Explorer se ne moze editovati
+[ERROR][2024-11-09][17:41:12.492691300] Project Explorer se ne moze brisati
+[ERROR][2024-11-09][17:41:16.139840500] Project Explorer se ne moze editovati
+[ERROR][2024-11-09][17:52:39.725254400] Room ne moze imati decu
+[ERROR][2024-11-09][17:52:56.743374600] Room ne moze imati decu
+[ERROR][2024-11-09][17:53:42.329829400] Morate uneti ime u polje
+[ERROR][2024-11-09][17:54:16.997413100] Morate uneti ime u polje
+[ERROR][2024-11-09][17:54:27.602909700] Morate uneti ime u polje
+[ERROR][2024-11-09][17:55:50.217511200] Morate uneti ime u polje
+[ERROR][2024-11-09][17:55:50.992322500] Morate izabrati tip objekta
+[ERROR][2024-11-09][17:56:06.797899700] Morate uneti ime u polje
+[ERROR][2024-11-09][17:56:12.828183900] Morate izabrati tip objekta
+[ERROR][2024-11-09][17:57:02.465750800] Morate uneti ime u polje
+[ERROR][2024-11-09][17:57:09.400402600] Morate uneti ime u polje
+[ERROR][2024-11-09][17:57:19.982660] Morate izabrati tip objekta
+[ERROR][2024-11-09][17:57:36.497450600] Morate izabrati tip objekta
+[ERROR][2024-11-09][17:58:56.429136700] Nista nije selektovano
+[ERROR][2024-11-09][17:59:00.222709800] Morate uneti ime u polje
+[ERROR][2024-11-09][17:59:12.936159500] Morate uneti ime u polje
+[ERROR][2024-11-09][17:59:27.578608500] Morate izabrati tip objekta
+[ERROR][2024-11-09][18:06:34.586558900] Morate izabrati tip objekta
+[ERROR][2024-11-09][18:06:36.827075700] Room ne moze imati decu
+[ERROR][2024-11-09][18:07:41.641463100] Room ne moze imati decu
+[ERROR][2024-11-09][18:08:01.000781100] Room ne moze imati decu
+[ERROR][2024-11-09][18:08:21.468584900] Room ne moze imati decu
+[ERROR][2024-11-09][18:08:25.002894500] Morate izabrati tip objekta
+[ERROR][2024-11-09][18:08:27.040605400] Morate izabrati tip objekta
+[ERROR][2024-11-09][18:09:12.790412900] Room ne moze imati decu
+[ERROR][2024-11-09][18:09:53.164658500] Room ne moze imati decu
+[ERROR][2024-11-09][18:10:41.230178700] Nista nije selektovano
+[ERROR][2024-11-09][18:10:49.214569500] Room ne moze imati decu
+[ERROR][2024-11-09][18:59:34.266824500] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:00:11.752840700] Morate izabrati tip objekta
+[ERROR][2024-11-09][19:01:02.882906200] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:01:10.290912500] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:03:08.921969900] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:08:49.971240100] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:09:03.939097] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:09:14.166813100] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:09:21.745178100] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:11:23.945821200] Nista nije selektovano
+[ERROR][2024-11-09][19:11:25.396931500] Nista nije selektovano
+[ERROR][2024-11-09][19:11:26.816300400] Nista nije selektovano
+[ERROR][2024-11-09][19:11:29.667030200] Project Explorer se ne moze editovati
+[ERROR][2024-11-09][19:11:32.850926600] Project Explorer se ne moze brisati
+[ERROR][2024-11-09][19:11:51.265873400] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:20:54.198605700] Nista nije selektovano
+[ERROR][2024-11-09][19:21:28.364901300] Morate izabrati tip objekta
+[ERROR][2024-11-09][19:23:54.537602200] Morate izabrati tip objekta
+[ERROR][2024-11-09][19:24:56.063854400] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:25:06.846836800] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:25:10.489971500] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:25:17.566980900] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:25:38.297840100] Morate izabrati tip objekta
+[ERROR][2024-11-09][19:25:44.055902] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:29:07.551348500] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:29:11.419043200] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:29:16.526336100] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:29:18.620541100] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:29:25.342600400] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:29:32.013910100] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:35:25.930630700] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:35:37.034727300] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:35:53.356809400] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][19:36:15.331057600] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][22:53:59.023326500] Nista nije selektovano
+[ERROR][2024-11-09][22:54:04.156780900] Morate uneti ime u polje
+[ERROR][2024-11-09][22:54:22.744625700] Room ne moze imati decu
+[ERROR][2024-11-09][23:02:29.463692600] Morate uneti ime u polje
+[ERROR][2024-11-09][23:09:54.656873300] Projekat nema sobe
+[ERROR][2024-11-09][23:10:00.796304500] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][23:32:05.408636300] Morate izabrati tip objekta
+[ERROR][2024-11-09][23:33:40.951651700] Project Explorer se ne moze brisati
+[ERROR][2024-11-09][23:38:45.484482200] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-09][23:41:43.871816700] Morate izabrati tip objekta
+[ERROR][2024-11-10][13:33:05.805719900] Nista nije selektovano
+[ERROR][2024-11-10][13:33:08.096206100] Nista nije selektovano
+[ERROR][2024-11-10][13:33:24.343006800] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-10][13:33:40.608976500] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-10][13:34:05.039592900] Room ne moze imati decu
+[ERROR][2024-11-10][13:59:20.212437200] Nista nije selektovano
+[ERROR][2024-11-10][13:59:40.725932800] Morate izabrati tip objekta
+[ERROR][2024-11-10][15:33:41.989065500] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-10][15:33:52.001192] Morate izabrati tip objekta
+[ERROR][2024-11-10][15:36:49.694893400] Projekat nema sobe
+[ERROR][2024-11-10][15:55:30.458572800] Morate izabrati tip objekta
+[ERROR][2024-11-10][17:48:39.620527200] Morate uneti ime u polje
+[ERROR][2024-11-10][18:41:46.951694200] Nista nije selektovano
+[ERROR][2024-11-10][18:41:48.625794800] Nista nije selektovano
+[ERROR][2024-11-10][18:41:50.923304400] Nista nije selektovano
+[ERROR][2024-11-10][18:50:41.476865200] Morate izabrati tip objekta
+[ERROR][2024-11-10][18:53:04.779960200] Project Explorer se ne moze brisati
+[ERROR][2024-11-10][18:56:09.669735300] Nista nije selektovano
+[ERROR][2024-11-10][18:56:10.948753500] Nista nije selektovano
+[ERROR][2024-11-10][19:03:29.903408] Nista nije selektovano
+[ERROR][2024-11-10][19:06:39.470218100] Nista nije selektovano
+[ERROR][2024-11-10][19:06:44.970245] Project Explorer se ne moze editovati
+[ERROR][2024-11-10][19:06:57.924290700] Project Explorer se ne moze editovati
+[ERROR][2024-11-10][19:13:15.628415900] Nista nije selektovano
+[ERROR][2024-11-10][19:13:16.972024700] Nista nije selektovano
+[ERROR][2024-11-10][19:13:18.235589300] Nista nije selektovano
+[ERROR][2024-11-10][19:13:20.273547600] Project Explorer se ne moze editovati
+[ERROR][2024-11-10][19:13:22.181807300] Project Explorer se ne moze brisati
+[ERROR][2024-11-10][19:13:42.145390600] Morate izabrati tip objekta
+[ERROR][2024-11-10][19:13:54.458035600] Project Explorer se ne moze brisati
+[ERROR][2024-11-10][19:13:56.101201200] Project Explorer se ne moze editovati
+[ERROR][2024-11-10][19:14:01.435091600] Morate uneti ime u polje
+[ERROR][2024-11-10][19:14:04.795104500] Morate uneti ime u polje
+[ERROR][2024-11-10][19:15:35.813373400] Morate izabrati tip objekta
+[ERROR][2024-11-10][19:16:00.185297500] Project Explorer se ne moze brisati
+[ERROR][2024-11-10][19:18:30.277940200] Morate uneti ime u polje
+[ERROR][2024-11-10][19:18:35.003253700] Morate uneti ime u polje
+[ERROR][2024-11-10][19:19:00.388616500] Morate uneti ime u polje
+[ERROR][2024-11-10][19:19:04.086619700] Morate uneti ime u polje
+[ERROR][2024-11-10][19:19:07.600856100] Morate uneti ime u polje
+[ERROR][2024-11-10][19:19:12.447080] Morate uneti ime u polje
+[ERROR][2024-11-10][19:20:20.609945700] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-10][19:20:23.402894600] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-10][19:21:16.694411600] Project Explorer se ne moze editovati
+[ERROR][2024-11-10][19:21:27.127199600] Project Explorer se ne moze editovati
+[ERROR][2024-11-10][19:33:11.688615600] Morate izabrati tip objekta
+[ERROR][2024-11-10][19:33:15.143803] Morate izabrati tip objekta
+[ERROR][2024-11-10][19:33:16.509955200] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][12:32:48.616390200] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][12:41:52.530469200] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][12:50:13.144755700] Nista nije selektovano
+[ERROR][2024-11-11][12:50:14.943126700] Nista nije selektovano
+[ERROR][2024-11-11][12:50:16.842597400] Nista nije selektovano
+[ERROR][2024-11-11][12:50:18.292079300] Nista nije selektovano
+[ERROR][2024-11-11][12:50:28.498736800] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][12:52:00.370503100] Projekat nema sobe
+[ERROR][2024-11-11][13:29:39.357479300] Morate uneti ime u polje
+[ERROR][2024-11-11][14:16:16.996127900] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][14:18:13.797358500] Project Explorer se ne moze brisati
+[ERROR][2024-11-11][14:18:16.891715900] Project Explorer se ne moze brisati
+[ERROR][2024-11-11][16:11:28.505957800] Room ne moze imati decu
+[ERROR][2024-11-11][16:15:25.510772600] Project Explorer se ne moze brisati
+[ERROR][2024-11-11][16:16:49.426216700] Room ne moze imati decu
+[ERROR][2024-11-11][16:20:23.297682600] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][16:50:22.769205600] Nista nije selektovano
+[ERROR][2024-11-11][16:52:44.355105600] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][17:48:28.720145500] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][18:12:22.871170600] Nista nije selektovano
+[ERROR][2024-11-11][18:12:36.747292500] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][18:19:40.546777500] Nista nije selektovano
+[ERROR][2024-11-11][18:28:02.289213900] Morate izabrati tip objekta
+[ERROR][2024-11-11][18:37:12.640948100] Morate uneti ime u polje
+[ERROR][2024-11-11][18:38:07.679289800] Room ne moze imati decu
+[ERROR][2024-11-11][19:16:00.395620800] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][19:59:59.500917800] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][20:19:13.270641800] Project Explorer se ne moze brisati
+[ERROR][2024-11-11][20:19:19.630585300] Project Explorer se ne moze brisati
+[ERROR][2024-11-11][20:19:56.702466900] Room ne moze imati decu
+[ERROR][2024-11-11][20:28:47.758055900] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][20:28:49.795365700] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][20:36:06.366045100] Nista nije selektovano
+[ERROR][2024-11-11][20:37:02.292002100] Morate izabrati tip objekta
+[ERROR][2024-11-11][21:02:01.059664800] Projekat nema sobe
+[ERROR][2024-11-11][21:03:05.441643100] Project Explorer se ne moze brisati
+[ERROR][2024-11-11][21:27:35.135701] Objekat sa istim imenom vec postoji
+[ERROR][2024-11-11][21:29:54.977456400] Projekat nema sobe
+[ERROR][2024-12-04][12:08:43.862184] Nista nije selektovano
+[ERROR][2024-12-04][12:08:59.572719200] Morate izabrati tip objekta
+[ERROR][2024-12-04][12:11:02.569995700] Morate izabrati tip objekta
+[ERROR][2024-12-06][19:06:11.709595] Objekat sa istim imenom vec postoji
+[ERROR][2024-12-06][19:07:32.720376700] Morate uneti ime u polje
+[ERROR][2024-12-07][14:55:15.250862600] Morate izabrati tip objekta
+[ERROR][2024-12-07][14:58:00.819154300] Morate izabrati tip objekta
+[ERROR][2024-12-07][17:15:44.977176900] Morate uneti ime u polje
+[ERROR][2024-12-07][17:16:37.305574100] Morate uneti vrednost u polje
+[ERROR][2024-12-07][17:21:12.497943200] Project Explorer se ne moze brisati
+[ERROR][2024-12-07][17:22:44.692816] Morate uneti vrednost u polje
+[ERROR][2024-12-07][17:22:47.139653500] Morate uneti vrednost u polje
+[ERROR][2024-12-07][17:31:01.924937] Morate uneti vrednost u polje
+[ERROR][2024-12-07][17:41:52.723670400] Morate uneti vrednost u polje
+[ERROR][2024-12-07][17:43:08.100699600] Morate uneti vrednost u polje
+[ERROR][2024-12-07][17:50:45.445978200] Morate izabrati tip objekta
+[ERROR][2024-12-07][18:03:05.387807100] Visina i sirina moraju biti isti
+[ERROR][2024-12-07][18:03:11.662316800] Visina i sirina moraju biti isti
+[ERROR][2024-12-07][18:03:14.091188900] Visina i sirina moraju biti isti
+[ERROR][2024-12-07][18:03:17.471675600] Visina i sirina moraju biti isti
+[ERROR][2024-12-07][18:03:47.621592500] Nista nije selektovano
+[ERROR][2024-12-07][18:03:56.707205500] Visina i sirina moraju biti isti
+[ERROR][2024-12-07][18:04:22.618458200] Visina i sirina moraju biti isti
+[ERROR][2024-12-07][18:07:17.009289600] Visina i sirina moraju biti isti
+[ERROR][2024-12-07][18:07:51.991312500] Morate uneti vrednost u polje
+[ERROR][2024-12-07][18:10:23.874997] Morate uneti vrednost u polje
+[ERROR][2024-12-07][18:15:44.289924100] Morate izabrati tip objekta
+[ERROR][2024-12-07][18:16:52.244251400] Morate uneti vrednost u polje
+[ERROR][2024-12-07][18:17:27.504783300] Nista nije selektovano
+[ERROR][2024-12-07][18:20:15.922715800] Morate izabrati tip objekta
+[ERROR][2024-12-07][19:26:56.173337300] Morate izabrati tip objekta
+[ERROR][2024-12-07][19:36:07.956105100] Morate uneti vrednost u polje
+[ERROR][2024-12-07][19:47:14.786035300] Objekat sa istim imenom vec postoji
+[ERROR][2024-12-07][19:47:16.077666] Objekat sa istim imenom vec postoji
+[ERROR][2024-12-07][20:00:36.395392500] Nista nije selektovano
+[ERROR][2024-12-07][20:29:38.368776500] Morate uneti vrednost u polje
+[ERROR][2024-12-14][12:57:14.910301200] Morate prvo zadati dimenzije sobe
+[ERROR][2024-12-14][12:57:25.078826300] Morate uneti vrednost u polje
+[ERROR][2024-12-14][20:13:02.813664600] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][20:49:29.512182500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][20:58:45.436266700] Visina i sirina moraju biti isti
+[ERROR][2024-12-14][21:02:49.509287900] Vec su zadate dimenzije sobe
+[ERROR][2024-12-14][21:04:10.752623200] Vec su zadate dimenzije sobe
+[ERROR][2024-12-14][21:27:25.570453700] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][22:58:33.996532100] Morate uneti vrednost u polje
+[ERROR][2024-12-14][23:01:05.609770600] Morate uneti vrednost u polje
+[ERROR][2024-12-14][23:05:53.195628900] Morate izabrati tip objekta
+[ERROR][2024-12-14][23:21:39.874781100] Morate uneti vrednost u polje
+[ERROR][2024-12-14][23:22:19.981263100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:22:52.245132400] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:22:55.791646800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:23:00.107092200] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:23:42.504258500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:23:51.092266500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:24:06.450074400] Visina i sirina moraju biti isti
+[ERROR][2024-12-14][23:24:39.265838800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:25:08.099367800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:25:26.030627500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:49:54.455411800] Vec su zadate dimenzije sobe
+[ERROR][2024-12-14][23:50:04.416454100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-14][23:50:45.832598400] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:07:06.720590] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:07:14.951497900] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:07:20.949231500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:07:26.248493] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:07:34.943575800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:10:56.748702800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:11:02.507280700] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:11:08.963284200] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:11:13.755925600] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:11:21.469207100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:14:12.852518] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:14:16.729928900] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:16:32.247473300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:16:39.136647800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:16:45.943578200] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:16:58.045637200] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:17:01.746587400] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:17:05.805466900] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:17:12.230747800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:17:18.621964800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:17:51.698725500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:18:09.781173600] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:18:27.674068100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:18:31.438246900] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:18:34.766649400] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:18:39.285649500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:18:41.807490600] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:18:49.102044500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:19:11.359346600] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:19:15.390383800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:19:19.359358300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:19:32.510833] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:19:39.598824100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:19:42.937249800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:19:51.018626100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:38:25.599440200] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:38:33.119770800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:39:05.240143200] Resize se moze vrsiti za samo 1 element sobe
+[ERROR][2024-12-15][00:39:09.105127700] Resize se moze vrsiti za samo 1 element sobe
+[ERROR][2024-12-15][00:39:25.437998500] Resize se moze vrsiti za samo 1 element sobe
+[ERROR][2024-12-15][00:39:26.946059900] Resize se moze vrsiti za samo 1 element sobe
+[ERROR][2024-12-15][00:39:40.182219800] Resize se moze vrsiti za samo 1 element sobe
+[ERROR][2024-12-15][00:42:50.410512700] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:42:57.378092300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:43:04.410442700] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:43:11.135863900] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:43:24.610585400] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:44:25.919727300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:44:33.997294500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:44:40.601841800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:44:46.432797500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:44:53.103056300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:45:40.769180200] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:45:43.856835100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:45:47.211085300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:46:04.347410200] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:46:29.916532100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:46:34.508852200] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:48:27.770288400] Morate uneti vrednost u polje
+[ERROR][2024-12-15][00:49:43.010583500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:51:17.274457100] Objekat sa istim imenom vec postoji
+[ERROR][2024-12-15][00:51:40.726117500] Morate prvo zadati dimenzije sobe
+[ERROR][2024-12-15][00:52:06.890472500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][00:55:31.425862200] Morate prvo zadati dimenzije sobe
+[ERROR][2024-12-15][00:59:19.647420800] Visina i sirina moraju biti isti
+[ERROR][2024-12-15][01:06:49.875629600] Morate izabrati tip objekta
+[ERROR][2024-12-15][01:06:59.356623100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:07:00.712659] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:07:02.071278400] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:07:08.285554800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:07:09.184619] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:07:11.345355] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:09:02.567360700] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:09:08.804129700] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:09:15.441013600] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:09:23.142036500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:10:26.006375300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:10:31.733228300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:10:35.339472400] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:10:41.453335] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:10:46.519306900] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:10:52.801051500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:10:58.895223] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:14:38.045908200] Vec su zadate dimenzije sobe
+[ERROR][2024-12-15][01:15:03.087014800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:15:07.156397300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:15:47.778649800] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:15:52.426594300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:15:57.212201] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:16:05.496349400] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:16:08.889919900] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:16:27.790244900] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:16:32.265054100] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:16:35.643989300] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:19:08.552136600] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:19:13.196573600] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][01:22:04.810156100] Morate izabrati tip objekta
+[ERROR][2024-12-15][11:08:01.613260400] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][11:08:25.547425500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][11:08:30.311107500] Element sobe se preklapa sa drugim
+[ERROR][2024-12-15][16:42:18.379887800] Ne mozete dodati element van sobe
+[ERROR][2024-12-15][16:42:58.802084300] Ne mozete dodati element van sobe
+[ERROR][2024-12-15][16:43:00.468170] Ne mozete dodati element van sobe
+[ERROR][2024-12-15][16:43:09.749919600] Ne mozete dodati element van sobe
+[ERROR][2024-12-15][16:43:10.881563200] Ne mozete dodati element van sobe
+[ERROR][2024-12-15][16:43:12.473615200] Ne mozete dodati element van sobe
+[ERROR][2024-12-15][16:43:54.003507800] Ne mozete dodati element van sobe
+[ERROR][2024-12-15][16:43:55.577388600] Ne mozete dodati element van sobe
+[ERROR][2024-12-15][20:28:39.816366800] Ne mozete dodati element van sobe
+[ERROR][2024-12-15][20:28:40.809402500] Ne mozete dodati element van sobe
+[ERROR][2024-12-17][23:02:16.819276600] Morate izabrati tip objekta
+[ERROR][2024-12-28][14:14:56.203431600] Nema vise akcija
+[ERROR][2024-12-28][14:15:05.434305900] Nema vise akcija
+[ERROR][2024-12-28][14:15:10.483381] Nema vise akcija
+[ERROR][2024-12-28][14:15:12.376695400] Nema vise akcija
+[ERROR][2024-12-28][14:30:58.438988800] Nema vise akcija
+[ERROR][2024-12-28][14:31:00.548961100] Nema vise akcija
+[ERROR][2024-12-28][23:35:31.583309700] Projekat nema sobe
+[ERROR][2024-12-28][23:49:15.482306800] Project Explorer se ne moze editovati
+[ERROR][2024-12-28][23:54:09.468255300] Vec su zadate dimenzije sobe
+[ERROR][2024-12-30][18:15:31.675042900] Project Explorer se ne moze brisati
+[ERROR][2024-12-30][18:30:55.639384600] Morate izabrati tip objekta
+[ERROR][2024-12-30][18:31:07.043576800] Visina i sirina moraju biti isti
+[ERROR][2025-01-04][14:26:04.692413500] Objekat sa istim imenom vec postoji
+[ERROR][2025-01-04][14:55:43.915138] Project Explorer se ne moze brisati
+[ERROR][2025-01-07][18:28:03.552093800] Element sobe se preklapa sa drugim
+[ERROR][2025-01-07][18:41:08.137169500] Morate izabrati tip objekta
+[ERROR][2025-01-07][18:41:23.715471600] Resize se moze vrsiti za samo 1 element sobe
+[ERROR][2025-01-07][21:06:32.641994300] Morate uneti vrednost u polje
+[ERROR][2025-01-07][21:11:19.300024200] Morate uneti vrednost u polje
+[ERROR][2025-01-07][21:16:05.131666700] Element sobe se preklapa sa drugim
